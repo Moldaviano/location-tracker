@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "mapcn": {
+      "source": "ferminrp/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/mapcn/SKILL.md",
+      "computedHash": "fb5ecc4cb4896e093c50b92f77fbc04aad60c2fdacc54151312b3880c5678eae"
+    }
+  }
+}
